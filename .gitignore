@@ -1,0 +1,8 @@
+node_modules
+.env
+.env.local
+cache
+artifacts
+frontend/.next
+frontend/node_modules
+frontend/.env.local
